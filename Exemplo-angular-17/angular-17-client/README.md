@@ -1,72 +1,88 @@
-# Angular 17 example project: CRUD with Rest API
+# Projeto Angular 17: Exemplo CRUD com API Rest
 
-Build an Angular 17 CRUD example App to consume Rest APIs, display, modify & search data.
+Construção de um aplicativo Angular 17 CRUD para consumir APIs Rest, exibir, modificar e pesquisar dados.
 
-Tutorial Application in that:
-- Each Tutorial has id, title, description, published status.
-- We can create, retrieve, update, delete Tutorials.
-- There is a Search bar for finding Tutorials by title.
+Aplicação de tutorial com as seguintes funcionalidades:
+- Cada Tutorial possui **id, título, descrição e status de publicação**.  
+- Podemos **criar, listar, atualizar e excluir** tutoriais.  
+- Há uma **barra de pesquisa** para encontrar tutoriais pelo título.  
 
 ![angular-17-crud-example](angular-17-crud-example.png)
 
-Run `ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/`. The app will automatically reload if you change any of the source files.
+---
 
-For instruction, please visit:
-> [Angular 17 CRUD example with Rest API](https://www.bezkoder.com/angular-17-crud-example/)
+## 🚀 Executando o projeto
+Execute o comando:  
+```bash
+ng serve --port 8081
+Depois, acesse no navegador:
+👉 http://localhost:8081/
 
-More Practice:
-> [Angular 17 Pagination example](https://www.bezkoder.com/angular-17-pagination-ngx/)
+O aplicativo será recarregado automaticamente se você alterar algum arquivo fonte.
 
-> [Angular 17 JWT Authentication & Authorization example](https://www.bezkoder.com/angular-17-jwt-auth/)
+📘 Tutorial completo
 
-> [Angular 17 File upload example with Progress bar](https://www.bezkoder.com/angular-17-file-upload/)
+Exemplo Angular 17 CRUD com API Rest
 
-> [Angular 17 Form Validation example](https://www.bezkoder.com/angular-17-form-validation/)
+🔎 Mais práticas com Angular 17
 
-Fullstack with Node:
+Exemplo de Paginação
 
-> [Angular 17 + Node Express + MySQL example](https://www.bezkoder.com/angular-17-node-js-express-mysql/)
+Autenticação & Autorização com JWT
 
-> [Angular 17 + Node Express + PostgreSQL example](https://www.bezkoder.com/angular-17-node-js-express-postgresql/)
+Upload de Arquivo com barra de progresso
 
-> [Angular 17 + Node Express + MongoDB example](https://www.bezkoder.com/angular-17-node-js-express-mongodb/)
+Validação de Formulário
 
-> [Angular 17 + Node Express: File upload example](https://www.bezkoder.com/angular-17-node-express-file-upload/)
+🟢 Fullstack com Node
 
-Fullstack with Spring Boot:
+Angular 17 + Node Express + MySQL
 
-> [Angular 17 + Spring Boot example](https://www.bezkoder.com/spring-boot-angular-17-crud/)
+Angular 17 + Node Express + PostgreSQL
 
-> [Angular 17 + Spring Boot + MySQL example](https://www.bezkoder.com/spring-boot-angular-17-mysql/)
+Angular 17 + Node Express + MongoDB
 
-> [Angular 17 + Spring Boot + PostgreSQL example](https://www.bezkoder.com/spring-boot-angular-17-postgresql/)
+Upload de Arquivo com Node Express
 
-> [Angular 17 + Spring Boot + MongoDB example](https://www.bezkoder.com/spring-boot-angular-17-mongodb/)
+☕ Fullstack com Spring Boot
 
-> [Angular 17 + Spring Boot: File upload example](https://www.bezkoder.com/angular-17-spring-boot-file-upload/)
+Angular 17 + Spring Boot CRUD
 
-Fullstack with Django:
-> [Angular + Django example](https://www.bezkoder.com/django-angular-13-crud-rest-framework/)
+Angular 17 + Spring Boot + MySQL
 
-> [Angular + Django + MySQL](https://www.bezkoder.com/django-angular-mysql/)
+Angular 17 + Spring Boot + PostgreSQL
 
-> [Angular + Django + PostgreSQL](https://www.bezkoder.com/django-angular-postgresql/)
+Angular 17 + Spring Boot + MongoDB
 
-> [Angular + Django + MongoDB](https://www.bezkoder.com/django-angular-mongodb/)
+Upload de Arquivo com Angular 17 + Spring Boot
 
-Security:
-> [Angular 17 + Spring Boot: JWT Authentication and Authorization example](https://www.bezkoder.com/angular-17-spring-boot-jwt-auth/)
+🐍 Fullstack com Django
 
-> [Angular 17 + Node.js Express: JWT Authentication and Authorization example](https://www.bezkoder.com/node-js-angular-17-jwt-auth/)
+Angular + Django CRUD
 
-Serverless with Firebase:
-> [Angular 17 Firebase CRUD with Realtime DataBase](https://www.bezkoder.com/angular-17-firebase-crud/)
+Angular + Django + MySQL
 
-> [Angular 17 Firestore CRUD example](https://www.bezkoder.com/angular-17-firestore-crud/)
+Angular + Django + PostgreSQL
 
-> [Angular 17 Firebase Storage: File Upload/Display/Delete example](https://www.bezkoder.com/angular-17-firebase-storage/)
+Angular + Django + MongoDB
 
-Integration (run back-end & front-end on same server/port)
-> [How to integrate Angular with Node Restful Services](https://bezkoder.com/integrate-angular-12-node-js/)
+🔐 Segurança
 
-> [How to Integrate Angular with Spring Boot Rest API](https://bezkoder.com/integrate-angular-12-spring-boot/)
+Angular 17 + Spring Boot: Autenticação e Autorização com JWT
+
+Angular 17 + Node.js Express: Autenticação e Autorização com JWT
+
+☁️ Serverless com Firebase
+
+CRUD com Firebase Realtime Database
+
+CRUD com Firestore
+
+Upload/Exibição/Exclusão de Arquivo com Firebase Storage
+
+🔗 Integração (backend + frontend no mesmo servidor/porta)
+
+Como integrar Angular com Node Restful Services
+
+Como integrar Angular com Spring Boot Rest API
+
